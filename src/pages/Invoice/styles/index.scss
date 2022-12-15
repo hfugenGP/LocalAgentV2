@@ -1,0 +1,15 @@
+.invoice-alert-warning {
+  margin-bottom: 15px;
+}
+
+.invoice-export-list {
+  .invoice-header-mouse-over {
+    cursor: pointer;
+  }
+
+  th {
+    &:last-child {
+      cursor: auto;
+    }
+  }
+}
